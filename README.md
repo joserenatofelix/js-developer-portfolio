@@ -4,7 +4,7 @@
 
 <a href='https://joserenatofelix.github.io/js-developer-portfolio/'><button>Confira o projeto clicando aqui</button>
 
-![](assets/img/dio.png)
+![](assets/img/developer.png)
 
 ## Detalhes da formação
 Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e prática. Nesta formação você aprenderá desde os fundamentos desta linguagem de programação até o seu papel essencial na Web atualmente. Para isso, traremos uma dinâmica diferente de tudo o que você já viu, onde o expert conduz todo o primeiro módulo usando a técnica de "pair programming", ensinando o JavaScript do zero para um profissional em transição de carreira.
