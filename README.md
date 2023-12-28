@@ -1,10 +1,12 @@
-![](assets/img/developer.png)
 # DIO-Portfolio - (FORMAÇÃO JAVASCRIPT DEVELOPER)
+
+![](assets/img/developer.png)
  
  Projeto Digital Inovation One PARA A FORMAÇÃO de um Portfólio em nodes, html, css e javascript (Formação JavaScript Developer)Portfólio criado junto com o Bootcamp de JS da Digital Innovation One
 
 <a href='https://joserenatofelix.github.io/js-developer-portfolio/'><button>Confira o projeto clicando aqui</button>
 
+![image](https://github.com/joserenatofelix/js-developer-portfolio/assets/93296913/2187f13b-66b9-473f-ac9a-c13c81b88a19)
 
 
 ## Detalhes da formação
