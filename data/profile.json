@@ -3,7 +3,7 @@
   "photo": "https://raw.githubusercontent.com/joserenatofelix/js-developer-portfolio/main/assets/img/photo.jpeg",
   "job": "Desenvolvedor FullStack",
   "location": "Jacareí - SP",
-  "phone": "(11) 99173-0737",
+  "phone": "(12) 99173-0737",
   "email": "joserenatofelix@gmail.com",
   "skills": {
     "hardSkills": [
@@ -72,8 +72,13 @@
   ],
   "professionalExperience": [
     {
+      "name": "TOTVS SA",
+      "period": "10/2023 - até o momento",
+      "description": "Desenvolvimento, criação de novas funcionalidades e resolução de bugs em aplicações web e mobile escritas em Angular, PO UI, typescript e java com spring boot com apis e integração com banco de dados postgreSql."
+    },
+    {
       "name": "SOLUTIC CONSULTORIA E ASSESSORIA LTDA",
-      "period": "04/2023 - até o momento",
+      "period": "04/2023 - até 10/2023",
       "description": "Responsavél pela criação de telas relacionadas ao compartilhamento de dados, balanceamento."
     },
     {
@@ -85,6 +90,6 @@
       "name": "Security Dynamics Tecnologia e Sistemas Ltda.",
       "period": "12/2019 até 11/2022",
       "description": "Correções em aplicações Front-ent."
-    }  
+    }
   ]
 }
